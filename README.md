@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...JC
-- ⚡ Fun fact: ... I'm totally new to coding
+- ⚡ Fun fact: ... I'm completely new to coding
 
 <!---
 JC-25-09/JC-25-09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
